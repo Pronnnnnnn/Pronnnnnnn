@@ -7,14 +7,14 @@
 ![https://www.linkedin.com/in/muhammad-ghufran-481655372](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://instagram.com/ghufrrnn_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://x.com/innerchildboy_?s=21](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) ![mailto:ghufranmuhammad234@gmail.com?subject=Pertanyaan%20Penting&body=Halo,%20Saya%20ingin%20bertanya%20tentang](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whi)
 
 ##### Play Games with Me
-<img src="https://raw.githubusercontent.com/muhammadghufran/muhammadghufran/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Pronnnnnnn/Pronnnnnnn/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadghufran/muhammadghufran/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadghufran/muhammadghufran/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muhammadghufran/muhammadghufran/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pronnnnnnn/Pronnnnnnn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pronnnnnnn/Pronnnnnnn/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pronnnnnnn/Pronnnnnnn/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
