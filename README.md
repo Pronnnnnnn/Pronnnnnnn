@@ -16,20 +16,24 @@
 
 <h2 align="left">Play Games with Me🕹️</h2>
 
-###
+### 🐍 Snake Contribution Animation
 
-<img src="https://raw.githubusercontent.com/Pronnnnnnn/Pronnnnnnn/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pronnnnnnn/Pronnnnnnn/output/snake.svg" alt="Snake animation" />
+</p>
 
+---
 
-###
+### 👾 Pacman Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pronnnnnnn/Pronnnnnnn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pronnnnnnn/Pronnnnnnn/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pronnnnnnn/Pronnnnnnn/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pronnnnnnn/Pronnnnnnn/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pronnnnnnn/Pronnnnnnn/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Pronnnnnnn/Pronnnnnnn/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
-###
 <!---
 Pronnnnnnn/Pronnnnnnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
