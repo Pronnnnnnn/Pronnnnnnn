@@ -14,11 +14,7 @@
 
 <h2 align="left">Play Games with Me🕹️</h2>
 
-###
-
 <img src="https://raw.githubusercontent.com/Pronnnnnnn/Pronnnnnnn/output/snake.svg" alt="Snake animation" />
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pronnnnnnn/Pronnnnnnn/output/pacman-contribution-graph-dark.svg">
