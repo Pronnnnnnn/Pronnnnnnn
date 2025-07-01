@@ -16,7 +16,7 @@
 
 <h2 align="left">Play Games with Me🕹️</h2>
 
-### 🐍 Snake Contribution Animation
+### 🐍 Snake 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pronnnnnnn/Pronnnnnnn/output/snake.svg" alt="Snake animation" />
@@ -24,7 +24,7 @@
 
 ---
 
-### 👾 Pacman Contribution Graph
+### 👾 Pacman 
 
 <p align="center">
   <picture>
