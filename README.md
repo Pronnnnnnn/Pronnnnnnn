@@ -23,16 +23,6 @@
 </picture>
 
 ###
-
-<!-- GitHub Profile README -->
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ghufran+Muhammad;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-  </a>
-</h1>
-
-
-###
 <!---
 Pronnnnnnn/Pronnnnnnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
