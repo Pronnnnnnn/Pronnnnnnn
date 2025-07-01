@@ -6,7 +6,8 @@
 ##### Collaborate with Me (click👇)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ghufran-481655372) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ghufrrnn_) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/innerchildboy_?s=21) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghufranmuhammad234@gmail.com)
 
-<h2 align="left">Play Games with Me</h2>
+
+<h2 align="left">Play Games with Me🕹️</h2>
 
 ###
 
