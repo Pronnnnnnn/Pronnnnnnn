@@ -1,7 +1,7 @@
 ## Heyyyy!! I'm Muhammad Ghufran
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghufranmuhammad234&label=Profile+Views" alt="views"/>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=500&height=50&lines=Ghufran;Code+Alchemist;Bit+Whisperer;Digital+Nomad;Techno+Crafter" alt="Typing SVG" />
+</h1>
 ![Muhammad Ghufran](img/image.png)
 ##### Skills🤹
 <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
