@@ -1,9 +1,11 @@
 ## Heyyyy!! I'm Muhammad Ghufran
+
+![Muhammad Ghufran](img/image.png)
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=500&height=50&lines=Call+me+Pronn;No+Data+No+Model;weights%3Dzeros;model.predict%3DNone;overfitted+%28void%29" alt="Typing SVG" />
 </h1>
 
-![Muhammad Ghufran](img/image.png)
 ##### Skills🤹
 <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 
