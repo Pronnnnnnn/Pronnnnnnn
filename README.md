@@ -1,6 +1,7 @@
 ## Heyyyy!! I'm Muhammad Ghufran
-
-![Muhammad Ghufran](img/image.png)
+<p align="center">
+  <img src="img/image.png" alt="Muhammad Ghufran" />
+</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=500&height=50&lines=Call+me+Pronn;No+Data+No+Model;weights%3Dzeros;model.predict%3DNone;overfitted+%28void%29" alt="Typing SVG" />
@@ -12,24 +13,11 @@
 ##### Collaborate with Me (click👇)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ghufran-481655372) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ghufrrnn_) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/innerchildboy_?s=21) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghufranmuhammad234@gmail.com?subject=Halo%20Ghufran&body=Saya%20ingin%20menghubungi%20anda%20perihal.)
 
-<h2 align="left">Play Games with Me🕹️</h2>
 
-### 🐍 Snake 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pronnnnnnn/Pronnnnnnn/output/snake/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-### 👾 Pacman 
+<h2 align="left">Play Games with Me 🐍</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pronnnnnnn/Pronnnnnnn/output/pacman/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pronnnnnnn/Pronnnnnnn/output/pacman/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Pronnnnnnn/Pronnnnnnn/output/pacman/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Pronnnnnnn/Pronnnnnnn/output/snake.svg" alt="Snake animation" />
 </p>
 
 
